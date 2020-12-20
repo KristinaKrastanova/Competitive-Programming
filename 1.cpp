@@ -1,3 +1,11 @@
+/*Program to print positive integers in p numeral system.
+Input:
+The first number on each row is the base. Then there is a sequence of decimal numbers to be tranfrormed.
+Restrictions:
+2 <= p <= 32
+The length of the sequence <= 1000.
+All numbers from the input are in the interval [0, 106].*/
+
 #include <iostream>
 #include <string>
 #include <stack>
