@@ -1,7 +1,7 @@
 /*
 Find the majority element.
 Input
-n - number of strings 1 < n < 105
+n - number of strings 1 < n < 10^5
 strings - they don't include spaces
 Output
  If there is majority print the majority element else print "-".
