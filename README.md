@@ -1,1 +1,1 @@
-/* Exercises from programming contest course*/
+/* Exercises from competitive programming course*/
